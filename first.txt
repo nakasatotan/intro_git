@@ -4,6 +4,7 @@
 ・git commit
 ・git rm
 ・git status
+・git diff
 
 git remote add origin https://github.com/nakasatotan/intro_git.git
 git branch -M main
